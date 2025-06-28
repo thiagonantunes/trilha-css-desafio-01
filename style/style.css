@@ -75,6 +75,11 @@ button {
   background-color: transparent;
 }
 
+.btn-hover:hover {
+  cursor: pointer;
+  opacity: .5;
+}
+
 main {
   background-color: #000;
 }
